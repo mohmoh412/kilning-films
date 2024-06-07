@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f2026172.css",
+    "main.js": "/static/js/main.169fd46f.js",
+    "static/media/bgvideo.mov": "/static/media/bgvideo.0310af1e5356f238939d.mov",
+    "static/media/abhinav.jpg": "/static/media/abhinav.9b46aa7b79caec0e3332.jpg",
+    "static/media/siddarth.jpg": "/static/media/siddarth.a6acacb2f3639e53b25b.jpg",
+    "static/media/abhinav2.jpg": "/static/media/abhinav2.c557a71abd92c68e0701.jpg",
+    "static/media/vedesh.jpg": "/static/media/vedesh.0885e7adf125ac2555e0.jpg",
+    "static/media/abhinaya.jpg": "/static/media/abhinaya.51e048a6bafb7e38fa74.jpg",
+    "static/media/phoneIcon.svg": "/static/media/phoneIcon.989c4fb908c8c2788cdb31d7df167942.svg",
+    "static/media/homeIcon.svg": "/static/media/homeIcon.e67405d09e9dd41f67caf853fb099c91.svg",
+    "static/media/instaSocial.svg": "/static/media/instaSocial.7a0805019cfd9a29bd97a80c46466301.svg",
+    "static/media/linkedinSocial.svg": "/static/media/linkedinSocial.7bcf204b9d97a11341c3ffc190d0e35c.svg",
+    "static/media/youtubeSocial.svg": "/static/media/youtubeSocial.edb24db327f2b87a75a76535d8a489bb.svg",
+    "static/media/xSocial.svg": "/static/media/xSocial.6269be6b2a64bb736d048cac34840ed8.svg",
+    "static/media/mailIcon.svg": "/static/media/mailIcon.81a7cbe5a6d8a0ae8d081166923ed480.svg",
+    "index.html": "/index.html",
+    "main.f2026172.css.map": "/static/css/main.f2026172.css.map",
+    "main.169fd46f.js.map": "/static/js/main.169fd46f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2026172.css",
+    "static/js/main.169fd46f.js"
+  ]
+}
